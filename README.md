@@ -10,3 +10,9 @@ MyongJiBot Server
 #### MyongJi University KakaoTalk ChatBot Server
 
 #### [Demo][]()
+
+### 2. Operational Policy
+
+---
+
+#### MyongJiBot complies with the <a target="_blank" href="https://www.kakao.com/policy/oppolicy">Kakao Operations Policy</a>.
